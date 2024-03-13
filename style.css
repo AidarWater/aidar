@@ -5,3 +5,8 @@ body{
 h1{
     color: rgb(107, 6, 1);
 }
+
+p{
+    font-size: 30px;
+    font-weight: 800;
+}
